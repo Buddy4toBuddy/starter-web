@@ -17,3 +17,6 @@ Comparision with repo
 
 ## AutoMerge
 auto merging the branch
+
+## Rebase
+adding rebase lecture
