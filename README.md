@@ -19,4 +19,4 @@ Comparision with repo
 auto merging the branch
 
 ## Rebase
-adding rebase lecture
+adding rebase lecture. we have done so much of work together.
