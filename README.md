@@ -14,3 +14,6 @@ Adding some comparision
 
 ## GitHub Content
 Comparision with repo
+
+## AutoMerge
+auto merging the branch
