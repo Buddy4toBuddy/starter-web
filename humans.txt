@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> Vimal Lal V <twitter>
+   Vimal Lal V
+	vimal@gmail.com
 
 # THANKS
 
