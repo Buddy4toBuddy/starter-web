@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+adding some important files
 # TEAM
 
    Vimal Lal V
