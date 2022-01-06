@@ -1,2 +1,2 @@
-# adding new file git project
-this file is not tracked by git
+# slashing
+the file is created for slashing
