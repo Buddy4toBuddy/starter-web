@@ -1,2 +1,0 @@
-# slashing
-the file is created for slashing
